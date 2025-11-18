@@ -12,3 +12,4 @@ C:\Users\ILJ\source\repos\lab1\lab1\obj\Debug\net8.0\refint\lab1.dll
 C:\Users\ILJ\source\repos\lab1\lab1\obj\Debug\net8.0\lab1.pdb
 C:\Users\ILJ\source\repos\lab1\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
 C:\Users\ILJ\source\repos\lab1\lab1\obj\Debug\net8.0\ref\lab1.dll
+C:\Users\ILJ\Source\Repos\lab1\lab1\obj\Debug\net8.0\lab1.sourcelink.json
